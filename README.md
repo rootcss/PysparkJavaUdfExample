@@ -1,7 +1,9 @@
 Example of Spark Java UDF for blog post.
 
 -------------
-Notes below:
+Notes below. Ignore.
+
+
 mvn clean
 mvn build
 
